@@ -1,5 +1,7 @@
 # OpenAL v1.1 SDK
-OpenAL, contração de Open Audio Library, é uma interface cruze-plataforma de programação para hardware de aceleração de áudio. Este API é designada à eficiente rendição em alta qualidade de áudio multicanal posicional tridimensional, a qual, em sua elaboração se assemelha assertivamente aos ideias do OpenGL, reforçando a noção do equivalente para áudio do OpenGL.
-[https://resigma.ga/p/openal/]
+Original SDK in version 1.1 of OpenAL, an cross-platform API for accoustic rendering.
+For more about [OpenAL](https://sigmaco.org/?s=openal&bp_search=1&view=content), look at [SIGMAco.org](https://sigmaco.org), the our brazilian hub.
 
-[![](https://discordapp.com/api/guilds/349379672351571969/embed.png?style=banner1)](https://discord.gg/vUnjgYD)
+For any questions, use our support at Discord:
+
+[![](https://discordapp.com/api/guilds/349379672351571969/embed.png?style=banner1)](https://discord.gg/vUnjgYD?SIGMA_Technology_Group)
